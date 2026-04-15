@@ -78,3 +78,5 @@ The dataset contains transactional ecommerce data with the following attributes:
 - Certain regions contribute more revenue but lower profit margins  
 - A few products drive the majority of revenue (Pareto effect)  
 - Seasonal spikes in sales during specific months  
+
+---
